@@ -1,0 +1,31 @@
+
+
+table {
+    display: flex;
+    justify-content: center;
+}
+
+table{
+border-collapse: collapse;
+}
+
+td{
+    border: solid black 3px;
+    width: 35px;
+    height: 35px;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    align-items: center;
+}
+td:empty{
+    border: none;
+}
+
+sup{
+    color: black;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
